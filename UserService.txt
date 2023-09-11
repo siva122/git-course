@@ -1,2 +1,5 @@
 get the user data...
 process the data
+
+
+create an avathar for the user
